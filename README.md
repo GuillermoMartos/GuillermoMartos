@@ -21,11 +21,13 @@
 
   
 </div>
+<br/>
 
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> • Javascript • Python • TypeScript • Git • Github • React.js • Redux • HTML • CSS • NodeJs • MathPlotLib • SeaBorn • Pandas • Express • Postman • Firebase • PostgreSQL • Mongoose • Sequelize • Webpack • Babel • </p>
+
 
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -50,6 +52,7 @@
   <img /> 
   
 </div>
+<br/>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=GuillermoMartos&theme=react&show_icons=true&include_all_commits=true" />
