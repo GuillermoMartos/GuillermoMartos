@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> • Javascript • Python • TypeScript • Git • Github • React.js • Redux • HTML • CSS • NodeJs • MathPlotLib • SeaBorn • Pandas • Express • Postman • Firebase • PostgreSQL • Mongoose • Sequelize • Webpack • Babel • </p>
+<p align="center"> • Javascript • Python • TypeScript • Git • BootStrap • Github • React.js • Redux • HTML • CSS • NodeJs • MathPlotLib • SeaBorn • Pandas • Express • Postman • Firebase • PostgreSQL • Mongoose • Sequelize • Webpack • Babel • </p>
 
 
 <div align="center"> 
@@ -41,8 +41,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="MatPlotLib" width="40" height="40"/> 
     <img src="https://user-images.githubusercontent.com/315810/92254506-fe7bef80-ee9e-11ea-8701-9d63ff858e0a.png" alt="SeaBorn" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" alt="Pandas" width="40" height="40"/> 
-    <img src="https://i.morioh.com/210122/0fc88246.webp" alt="html5" width="40" height="40"/> 
-    <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.daaf10a3ec.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstraps" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongo" width="95" height="45"/> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PSQL" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
