@@ -30,21 +30,21 @@
 
 
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="javascript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JScript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TScrypt" width="40" height="40"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png" alt="html5" width="45" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png" alt="React" width="45" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="html5" width="40" height="40"/> 
-    <img src="https://user-images.githubusercontent.com/315810/92254506-fe7bef80-ee9e-11ea-8701-9d63ff858e0a.png" alt="html5" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="html5" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="MatPlotLib" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/315810/92254506-fe7bef80-ee9e-11ea-8701-9d63ff858e0a.png" alt="SeaBorn" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/250px-Pandas_mark.svg.png" alt="Pandas" width="40" height="40"/> 
     <img src="https://i.morioh.com/210122/0fc88246.webp" alt="html5" width="40" height="40"/> 
     <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.daaf10a3ec.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="html5" width="95" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongo" width="95" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PSQL" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://camo.githubusercontent.com/c795856c6306f78db65e0b2da98e216731ab0669e911c6fb05260bd546c70f41/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f376131393763666534343534386363316133663538313135326166373061333035316531313637312f37386466382f696d672f626162656c2e737667" alt="git" width="40" height="40"/> 
     <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="git" width="40" height="40"/> 
