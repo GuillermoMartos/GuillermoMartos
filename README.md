@@ -6,9 +6,7 @@
 <h4 align="center">:rocket: Henry Bootcamp (full stack web dev +800hr) </h4>
 <h4 align="center">:snake: University of Cordoba, Data Science Introduction (Python + SeaBorn&Pandas +30hr) </h4>
 
-<div>
-  
-  </div>
+<br/>
 
 
 - :seedling: I’m currently learning **React Native 📱**
