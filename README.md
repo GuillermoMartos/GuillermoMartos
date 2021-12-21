@@ -1,4 +1,4 @@
-<h1 align="center">Hi, there :wave:, I'm Guillermo (Martos) <img height="40" src="https://emoji.gg/assets/emoji/6500_wfhparrot.gif"></h1>
+<h1 align="center">Hi, there <img height="40" src="https://emoji.gg/assets/emoji/5750-dawave.gif"> I'm Guillermo (Martos) <img height="40" src="https://emoji.gg/assets/emoji/6500_wfhparrot.gif"></h1>
 
 <h3 align="center"> Full Stack Developer </h3>
 
