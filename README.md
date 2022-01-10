@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> • Javascript • Python • TypeScript • Git • BootStrap • Github • React.js • Redux • HTML • CSS • NodeJs • MathPlotLib • SeaBorn • Pandas • Express • Postman • Firebase • PostgreSQL • Mongoose • Sequelize • Webpack • Babel • </p>
+<p align="center"> • Javascript • Python • Django • TypeScript • Git • BootStrap • Github • React.js • Redux • HTML • CSS • NodeJs • MathPlotLib • SeaBorn • Pandas • Express • Postman • Firebase • PostgreSQL • Mongoose • Sequelize • Webpack • Babel • </p>
 
 
 <div align="center"> 
