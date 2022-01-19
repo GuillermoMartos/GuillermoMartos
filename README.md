@@ -58,6 +58,5 @@
 <p align= "center">
   
   <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoMartos&theme=react&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuillermoMartos&count_private=true" height"300" alt="stats"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoMartos)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=GuillermoMartos&count_private=true&langs_count=8" height"300" alt="stats"/>
 </p> 
