@@ -60,6 +60,6 @@
   <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoMartos&theme=react&show_icons=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=GuillermoMartos&layout=compact" height"300" alt="stats"/>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuillermoMartos&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoMartos&theme=react&show_icons=true&include_all_commits=true" />
 </a>
 </p> 
