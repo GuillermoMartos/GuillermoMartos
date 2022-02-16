@@ -1,10 +1,10 @@
-<h1 align="center">Hi, there  <img height="40" src="https://emoji.gg/assets/emoji/5750-dawave.gif"> <br/> I'm Guillermo Martos <img height="40" src="https://emoji.gg/assets/emoji/6500_wfhparrot.gif"></h1>
+<h1 align="center">Hi, there  <img height="40" src="https://emoji.gg/assets/emoji/5750-dawave.gif"> <br/> I'm Guillermo Martos</h1>
 
 <h3 align="center"> Full Stack Developer </h3>
 
 <h4 align="center">:adult:I'm a 31yo developer from Argentina. </h4>
 <h4 align="center">:rocket: Henry Bootcamp (full stack web dev +800hr) </h4>
-<h4 align="center">:snake: University of Cordoba, Data Science Introduction (Python + SeaBorn&Pandas +30hr) </h4>
+<h4 align="center">:snake: University of Cordoba, Data Science Introduction (Python + SeaBorn&Pandas +90hr) </h4>
 
 <br/>
 
