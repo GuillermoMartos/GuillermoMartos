@@ -9,7 +9,7 @@
 <br/>
 
 
-- :seedling: I’m currently learning **React Native 📱** **Angular** 🕸️ **Mastering TypeScript** 💻 **AWS Cloud Services** ☁️
+- :seedling: I’m currently mastering **Angular**, **TypeScript** & **AWS Cloud Services** ☁️
 
 - :eyes: Looking for new challenges where grown day by day
 
