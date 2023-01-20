@@ -9,9 +9,6 @@
 
 <br/>
 
-
-- :seedling: I’m currently mastering **Angular**, **TypeScript** & **AWS Cloud Services** ☁️
-
 - :eyes: Looking for new challenges allways :)
 
 <h3 align="center">Connect with me:</h3>
