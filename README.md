@@ -2,14 +2,12 @@
 
 <h3 align="center"> Full Stack Developer </h3>
 
-<h4 align="center">:adult:I'm a 31yo developer from Argentina. </h4>
-<h4 align="center">:rocket: Henry Bootcamp (full stack web dev +800hs) </h4>
-<h4 align="center">:snake: University of Cordoba, Data Science Introduction (Python + SeaBorn&Pandas +90hs) </h4>
-<h4 align="center">💻 Argentina Programa, Fullstack Bootcamp (Angular + MySQL/Springboot full stack bootcamp +500hs) </h4>
+<h4 align="center">:adult:I'm a 33yo developer from Argentina. </h4>
+<h4 align="center">:rocket: Henry Bootcamp (full stack web dev +800hs) 2021</h4>
+<h4 align="center">:snake: University of Cordoba, Data Science Introduction (Python + SeaBorn&Pandas +90hs) 2021</h4>
+<h4 align="center">💻 Argentina Programa, Fullstack Bootcamp (Angular + MySQL/Springboot full stack bootcamp +500hs) 2022</h4>
 
 <br/>
-
-- :eyes: Looking for new challenges allways :)
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
